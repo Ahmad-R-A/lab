@@ -5,7 +5,7 @@
 // comment
 class Test{
     public static void main(String[] a){
-        // one more comment
+        // one more
         System.out.println("Hello world");
         return;
     }
